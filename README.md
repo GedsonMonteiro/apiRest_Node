@@ -11,7 +11,7 @@
 
 <b>Projeto de uma API NodeJs com boas práticas REST, banco de dados SQL e ORM Sequelize.</b>
 
-## Instalação
+## Programas
 
 Node Js, [link](https://nodejs.org/en/download/package-manager/) para o tutorial de instalação (Windows/Mac/Linux).
 
@@ -22,10 +22,10 @@ Insomnia REST Client, [link](https://www.postgresqltutorial.com/install-postgres
 choco install insomnia-rest-api-client
 ```
 
-## Licença
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Instalação
 ```bash
 npm install
 ```
+
+## Licença
+[MIT](https://choosealicense.com/licenses/mit/)
